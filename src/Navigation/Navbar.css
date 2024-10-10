@@ -1,0 +1,17 @@
+nav{
+    background-color: burlywood;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+}
+li{
+    list-style: none;
+}
+
+ul{
+    display: flex; /*in same line*/
+    gap: 25px; /*gap for each*/
+    justify-content: right; /*to be placed right*/
+}
